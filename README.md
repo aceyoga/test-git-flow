@@ -1,5 +1,6 @@
 # README develop
 
+```
 git clone git@github.com:rms46/test-git-flow.git develop
 cd develop
 git pull;git push;
@@ -29,5 +30,5 @@ git checkout develop
 git pull;git push;
 git checkout develop 
 git branch
-
+```
 
